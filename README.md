@@ -1,15 +1,15 @@
-# DU IIT: AI-Assisted Data Analysis with Python
+# DU IIT: Introduction to Programming and Data Analysis with Python
 
-স্বাগতম! এই রিপোজিটরিটি **ঢাকা বিশ্ববিদ্যালয়ের তথ্য প্রযুক্তি ইনস্টিটিউট (IIT, University of Dhaka)** পরিচালিত **"Programming and Data Analysis with Python"** (অক্টোবর - ডিসেম্বর ২০২৬ সেশন) কোর্সের যাবতীয় লেকচার নোট, হ্যান্ডস-অন ল্যাব প্র্যাকটিস এবং প্রজেক্ট ফাইল সংরক্ষণের জন্য তৈরি করা হয়েছে।
+স্বাগতম! এই রিপোজিটরিটি **ঢাকা বিশ্ববিদ্যালয়ের তথ্য প্রযুক্তি ইনস্টিটিউট (IIT, University of Dhaka)** পরিচালিত **"Introduction to Programming and Data Analysis with Python"** (অক্টোবর - ডিসেম্বর ২০২৬ সেশন) কোর্সের যাবতীয় লেকচার নোট, হ্যান্ডস-অন ল্যাব প্র্যাকটিস এবং প্রজেক্ট ফাইল সংরক্ষণের জন্য তৈরি করা হয়েছে।
 
-This repository contains all the lecture notes, conceptual outlines, and hands-on practice notebooks for the **Short Training Course on Programming and Data Analysis with Python** at the **Institute of Information Technology (IIT), University of Dhaka**.
+This repository contains all the lecture notes, conceptual outlines, and hands-on practice notebooks for the **Short Training Course on Introduction to Programming and Data Analysis with Python** at the **Institute of Information Technology (IIT), University of Dhaka**.
 
 ## 📌 Course Specifications
 *   **Institution:** Institute of Information Technology (IIT), University of Dhaka
-*   **Course Title:** Programming and Data Analysis with Python / AI-Assisted Data Analysis with Python and Jupyter Notebook
+*   **Course Title:** Introduction to Programming and Data Analysis with Python
 *   **Timeline:** October — December, 2026 (3 Months)
 *   **Duration:** 20 Classes (1 Hour 30 Minutes per class, 2 days a week)
-*   **Learning Mode:** Hands-on practical sessions in modern computer labs with modern tool integrations (AI-assisted tools like Cursor & Jupyter Notebooks).
+*   **Learning Mode:** Hands-on practical sessions in modern computer labs with modern tool integrations.
 
 ## 📂 Repository Structure
 ```text
